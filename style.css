@@ -1,0 +1,90 @@
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  font-size: 20px;
+  font-family: Lato;
+
+
+  
+}
+
+.navbar {
+  text-align: center;
+  padding-top: 20px;
+  background-color: #222420;
+}
+
+.nav.navbar-nav>li>a:hover {
+  background-color:#570B07;
+}
+a:active{
+backgrocolor:#570B07;
+}
+#footer
+{
+	
+	
+	padding-top: 10%;
+}
+label
+{
+	font-size: 30px;
+	font-family:Lato ;
+}
+h1
+{
+	font-family:Lato ;
+
+}
+.text-field
+{
+
+	font-size:30px;
+	position: relative;
+	
+	top:30px;
+	font-family:Lato;
+	margin-top: 100px;
+	text-align: center;
+}
+.contact 
+{
+	font-size: 20px;
+   position: relative;
+	left:0;
+
+}
+#enter
+{
+	position: absolute; left: 15px;
+}
+
+#aboutme 
+{
+	font-size: 25px;
+	float:left;
+
+
+	
+}
+#img
+{
+	margin:auto;
+    display: block;
+	height: 50%;
+	width: 50%;
+		text-align: center;
+
+}
+.input
+{
+	width: 30%;
+}
+.projectimg
+{
+	margin-left:25px; 
+	display: inline-block;
+	margin-bottom: 25px;
+}
